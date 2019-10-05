@@ -1,0 +1,7 @@
+D:\anton\1.Education\IBA practise\KostenkoAnton_Basic2_2509\Task2\bin\Debug\Task2.exe.config
+D:\anton\1.Education\IBA practise\KostenkoAnton_Basic2_2509\Task2\bin\Debug\Task2.exe
+D:\anton\1.Education\IBA practise\KostenkoAnton_Basic2_2509\Task2\bin\Debug\Task2.pdb
+D:\anton\1.Education\IBA practise\KostenkoAnton_Basic2_2509\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+D:\anton\1.Education\IBA practise\KostenkoAnton_Basic2_2509\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\anton\1.Education\IBA practise\KostenkoAnton_Basic2_2509\Task2\obj\Debug\Task2.exe
+D:\anton\1.Education\IBA practise\KostenkoAnton_Basic2_2509\Task2\obj\Debug\Task2.pdb
