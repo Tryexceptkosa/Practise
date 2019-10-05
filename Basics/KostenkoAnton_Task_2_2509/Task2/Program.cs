@@ -27,7 +27,7 @@ namespace Task2
                     int num = prev1 + prev2;
                     Console.Write(" " + num);
                     prev1 = prev2;
-                    prev2 = num;
+                    prev2 = prev1;
                 }
             }
             else Console.WriteLine("Invalid input (n <= 0) ");
